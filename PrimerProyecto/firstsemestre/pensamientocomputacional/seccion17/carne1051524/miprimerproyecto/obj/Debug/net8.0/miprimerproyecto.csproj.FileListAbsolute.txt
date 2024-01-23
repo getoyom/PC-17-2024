@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\bin\Debug\net8.0\miprimerproyecto.exe
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\bin\Debug\net8.0\miprimerproyecto.deps.json
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\bin\Debug\net8.0\miprimerproyecto.runtimeconfig.json
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\bin\Debug\net8.0\miprimerproyecto.dll
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\bin\Debug\net8.0\miprimerproyecto.pdb
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\miprimerproyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\miprimerproyecto.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\miprimerproyecto.AssemblyInfo.cs
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\miprimerproyecto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\miprimerproyecto.dll
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\refint\miprimerproyecto.dll
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\miprimerproyecto.pdb
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\miprimerproyecto.genruntimeconfig.cache
+C:\Users\gabri\Documents\firstsemestre\pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\obj\Debug\net8.0\ref\miprimerproyecto.dll

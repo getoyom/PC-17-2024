@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pensamientocomputacional", "pensamientocomputacional", "{1153F484-6B3C-4E4A-8DE3-3A3620B28E79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "seccion17", "seccion17", "{201A3452-F887-4A27-8103-168BA17A543F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "carne1051524", "carne1051524", "{3B01F897-D2CB-4F20-93D7-355786A5CA94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "miprimerproyecto", "pensamientocomputacional\seccion17\carne1051524\miprimerproyecto\miprimerproyecto.csproj", "{4F240322-9611-4EAA-B308-731D9117D2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F240322-9611-4EAA-B308-731D9117D2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F240322-9611-4EAA-B308-731D9117D2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F240322-9611-4EAA-B308-731D9117D2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F240322-9611-4EAA-B308-731D9117D2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{201A3452-F887-4A27-8103-168BA17A543F} = {1153F484-6B3C-4E4A-8DE3-3A3620B28E79}
+		{3B01F897-D2CB-4F20-93D7-355786A5CA94} = {201A3452-F887-4A27-8103-168BA17A543F}
+		{4F240322-9611-4EAA-B308-731D9117D2BB} = {3B01F897-D2CB-4F20-93D7-355786A5CA94}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E87EEF-0051-4252-9F68-A79280409C8F}
+	EndGlobalSection
+EndGlobal
