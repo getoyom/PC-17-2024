@@ -1,0 +1,11 @@
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.Form1.resources
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\bin\Debug\L4GETJ1051524.exe.config
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\bin\Debug\L4GETJ1051524.exe
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\bin\Debug\L4GETJ1051524.pdb
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.exe
+C:\Users\Estudiante\source\repos\L4GETJ1051524\L4GETJ1051524\obj\Debug\L4GETJ1051524.pdb
